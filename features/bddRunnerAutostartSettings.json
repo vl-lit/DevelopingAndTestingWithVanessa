@@ -1,0 +1,14 @@
+{
+    "workspace": ".",
+    "КаталогФич": "$workspaceRoot/Новые шаги",
+    "КаталогиБиблиотек": [
+        "$instrumentsRoot/features/libraries",
+        "C:/data/library"
+    ],
+
+    "ВыполнитьСценарии": false,
+    "ИнтервалВыполненияШага": "0.1",
+    "ЗавершитьРаботуСистемы": false,
+    "ЗакрытьTestClientПослеЗапускаСценариев": false    
+ }
+ 

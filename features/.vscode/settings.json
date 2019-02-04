@@ -1,0 +1,11 @@
+{
+    "git.enableSmartCommit": true,
+    "gherkin-autocomplete.featureLibraries": [
+        "C:/Program Files (x86)/OneScript/lib/add/features/libraries",
+        "./Новые шаги"
+    ],
+    "gherkin-autocomplete.srcBslPath": [],
+    "gherkin-autocomplete.featuresPath": ".",
+    "window.zoomLevel": 0
+}
+
