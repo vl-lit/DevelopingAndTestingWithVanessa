@@ -1,0 +1,16 @@
+{
+    "default": {
+        "--ibconnection": "/SHOST:1541\\ut_autotest",
+        "--db-user": "Администратор",
+        "--db-pwd": "",
+        "--workspace": ".",
+        "--v8version":"8.3.14",
+        "--additional": "/Debug"        
+    },
+
+    "vanessa": {
+        "--vanessasettings": "./features/bddRunnerSettings.json"
+    }
+}
+
+

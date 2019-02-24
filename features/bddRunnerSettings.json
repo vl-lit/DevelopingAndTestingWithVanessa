@@ -1,0 +1,31 @@
+{    
+    "КаталогФич": "$workspaceRoot/features",
+    "КаталогиБиблиотек": [
+        "$instrumentsRoot/features/libraries",
+        "$workspaceRoot/library"
+    ],
+
+    "ВыполнитьСценарии": true,
+    "ИнтервалВыполненияШага": "0.1",
+    "ЗавершитьРаботуСистемы": true,
+    "ЗакрытьTestClientПослеЗапускаСценариев": true,
+    
+
+    "ДелатьОтчетВФорматеАллюр": true,
+    "КаталогOutputAllureБазовый": "$workspaceRoot/allure/xml_for_allure",
+    
+
+    "ДелатьСкриншотПриВозникновенииОшибки": true,
+	"КаталогOutputСкриншоты": "$workspaceRoot/allure/screenshots_temporary_dir",
+	"КомандаСделатьСкриншот": "nircmd savescreenshot",
+
+    
+    "СписокТеговОтбор": [],
+    "СписокТеговИсключение":[       
+        "ПропуститьДляПубликацииПроAllure",
+        "Черновик"
+    ]    
+
+ }
+ 
+
