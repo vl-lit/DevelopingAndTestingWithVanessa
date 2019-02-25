@@ -19,6 +19,9 @@
 	"КаталогOutputСкриншоты": "$workspaceRoot/allure/screenshots_temporary_dir",
 	"КомандаСделатьСкриншот": "nircmd savescreenshot",
 
+    "ДелатьЛогВыполненияСценариевВТекстовыйФайл": true,
+    "ИмяФайлаЛогВыполненияСценариев": "$workspaceRoot/vanessaonline.txt",
+        
     
     "СписокТеговОтбор": [],
     "СписокТеговИсключение":[       
